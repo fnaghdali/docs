@@ -7,7 +7,7 @@ $card-gutter: 30px;
 }
 
 .for-devs-featured {
-  padding-bottom: 16rem;
+  padding-bottom: 17rem;
 }
 
 .for-developers {
@@ -18,7 +18,7 @@ $card-gutter: 30px;
     color: #fff;
     position: relative;
     width: 100%;
-    text-align: center;
+    text-align: right center;
     margin-bottom: $scaleup-5;
   }
 }
@@ -65,7 +65,7 @@ $card-gutter: 30px;
   content: "";
   height: 70%;
   left: -75%;
-  position: absolute;
+  position: relative;
   top: 350px;
   transform: rotate(-9deg);
   transform-origin: left top;
